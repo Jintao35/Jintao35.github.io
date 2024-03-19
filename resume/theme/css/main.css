@@ -1,12 +1,12 @@
 /*   
  * Template Name: Orbit - Responsive Resume/CV Template for Developers
  * Version: 1.0
- * Author: Xiaoying Riley
+ * Author: Oliver Wang
  * Twitter: @3rdwave_themes
  * License: Creative Commons Attribution 3.0 License
- * Website: http://themes.3rdwavemedia.com/
+ * Website: https://github.com/Jintao35/pelicanPage/
 */
-/* styles-2.css */
+/* styles.css */
 /* ======= Base ======= */
 body {
   font-family: 'Roboto', sans-serif;
@@ -22,6 +22,7 @@ body {
         padding: 0;
     }
 }
+
 h1,
 h2,
 h3,
@@ -31,7 +32,7 @@ h6 {
   font-weight: 700;
 }
 a {
-  color: #35776d;
+  color: #2d7788;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -39,7 +40,7 @@ a {
 }
 a:hover {
   text-decoration: underline;
-  color: #1d423c;
+  color: #1a454f;
 }
 a:focus {
   text-decoration: none;
@@ -48,7 +49,7 @@ p {
   line-height: 1.5;
 }
 .wrapper {
-  background: #4CAC9D;
+  background: #42A8C0;
   max-width: 960px;
   margin: 0 auto;
   position: relative;
@@ -57,7 +58,7 @@ p {
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
 }
 .sidebar-wrapper {
-  background: #4CAC9D;
+  background: #42A8C0;
   position: absolute;
   right: 0;
   width: 240px;
@@ -166,7 +167,7 @@ p {
   text-transform: uppercase;
   font-size: 20px;
   font-weight: 500;
-  color: #35776d;
+  color: #2d7788;
   position: relative;
   margin-top: 0;
   margin-bottom: 20px;
@@ -185,7 +186,7 @@ p {
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  background: #35776d;
+  background: #2d7788;
   text-align: center;
   padding-top: 8px;
   font-size: 16px;
@@ -247,7 +248,7 @@ p {
 }
 .skillset .level-bar-inner {
   height: 12px;
-  background: #7ec6bb;
+  background: #7bc2d3;
 }
 .footer {
   padding: 30px;
@@ -309,4 +310,3 @@ used for profile image
   border-radius: 100%;
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
 }
-
