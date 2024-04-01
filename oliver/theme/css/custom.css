@@ -98,7 +98,7 @@ li a:hover::before {
 
 .intro {
     background: #32B4AA;
-    background-image: url('/theme/images/background.png');
+    background-image: url('/oliver/theme/images/background.png');
     opacity: 0.9;
     height: 100vh;
     margin-top: 30px !important;
