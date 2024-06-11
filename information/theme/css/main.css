@@ -156,6 +156,57 @@ h1 a {
   border-bottom: none;
 }
 
+table tr td {
+  font-size:14px;
+  font-family:Arial, sans-serif;
+  padding-left: 14px;
+  padding: 8px;
+  width: 100%;
+}
+
+.width-10 {
+  width: 10%;
+}
+
+.width-15 {
+  width: 15%;
+}
+
+.width-20 {
+  width: 20%;
+}
+
+.width-30 {
+  width: 30%;
+}
+
+.width-40 {
+  width: 40%;
+}
+
+.width-50 {
+  width: 50%;
+}
+
+.col-color {
+  background-color:#EBEBEB;
+}
+
+.col-color-0 {
+  background-color:#FCFCFC;
+}
+
+table tr th {
+  text-align: center;
+}
+
+.three-table tr td {
+  text-align: center;
+}
+
+.center {
+  text-align: center;
+}
 
 /* Texts */
 
@@ -165,6 +216,7 @@ p {
 
 article p {
   text-indent: 2em;
+  font-size: 14px;
 }
 
 a {
