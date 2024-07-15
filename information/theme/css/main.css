@@ -164,6 +164,14 @@ table tr td {
   width: 100%;
 }
 
+.width-5 {
+  width: 5%;
+}
+
+.width-8 {
+  width: 8%;
+}
+
 .width-10 {
   width: 10%;
 }
@@ -196,12 +204,24 @@ table tr td {
   background-color:#FCFCFC;
 }
 
+.col-color-1 {
+  background-color:#DBDBDB;
+}
+
 table tr th {
   text-align: center;
 }
 
 .three-table tr td {
   text-align: center;
+}
+
+.ping-table tr td {
+  text-align: center;
+}
+
+.min-w-60 {
+  min-width: 60px;
 }
 
 .center {
