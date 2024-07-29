@@ -7666,7 +7666,7 @@ button.close {
   background-attachment: scroll;
   background-clip: border-box;
   background-color: #339966;
-  background-image: url("../images/背景图片3.jpg");
+  background-image: url("../images/bg3.jpg");
   background-origin: padding-box;
   background-position: 0 0;
   background-repeat: repeat;
@@ -7677,6 +7677,9 @@ button.close {
   height: 600px;
   text-align: center;
   color: white;
+}
+.menu-bg {
+  background-image: url("../images/bg4.jpg");
 }
 /* line 20, ../sass/base/_layout.scss */
 .hero > h1 {
