@@ -11,7 +11,7 @@ function loadMenu() {
             dataList.forEach(itemData => {
                 let name = itemData['name']
                 let webUrl = itemData['url']
-                if(colIndex==6||(rowIdIndex*6+colIndex+1)==dataList.length){
+                if(colIndex==6||(rowIdIndex*6+colIndex)==dataList.length-1){
                     rowIdIndex++;
                     colIndex=0;
                     container.appendChild(div1);
