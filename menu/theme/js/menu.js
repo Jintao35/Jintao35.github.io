@@ -11,7 +11,7 @@ function loadMenu() {
             dataList.forEach(itemData => {
                 let name = itemData['name']
                 let webUrl = itemData['url']
-                if(colIndex==6||(rowIdIndex*6+colIndex)==dataList.length-1){
+                if(colIndex==6){
                     rowIdIndex++;
                     colIndex=0;
                     container.appendChild(div1);
@@ -35,6 +35,9 @@ function loadMenu() {
                 a.appendChild(textNode);
                 div2.appendChild(a);
                 div1.appendChild(div2);
+                if((rowIdIndex*6+colIndex)==dataList.length){
+                    container.appendChild(div1);
+                }
             });
         })
         .catch(error => console.error('Error:', error));
