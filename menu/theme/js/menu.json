@@ -10,7 +10,7 @@
                 "url": "https://jintao35.github.io/oliver/"
             },
             {
-                "name": "music-list",
+                "name": "音乐列表",
                 "url": "https://jintao35.github.io/menu/music-list"
             },
             {
@@ -18,36 +18,44 @@
                 "url": "https://jintao35.github.io/menu/"
             },
             {
-                "name": "recent-view",
+                "name": "最近追剧",
                 "url": "https://jintao35.github.io/recent-view/"
             },
             {
-                "name": "pic-show",
+                "name": "图片列表",
                 "url": "https://jintao35.github.io/pic-show/"
             },
             {
-                "name": "medicine",
+                "name": "医学文章",
                 "url": "https://jintao35.github.io/information/medicine"
             },
             {
-                "name": "gaokao",
+                "name": "高考文章",
                 "url": "https://jintao35.github.io/information/gaokao"
             },
             {
-                "name": "resume cn",
+                "name": "简历中文",
                 "url": "https://jintao35.github.io/resume/cn/"
             },
             {
-                "name": "resume en",
+                "name": "简历英文",
                 "url": "https://jintao35.github.io/resume/"
             },
             {
-                "name": "dongman",
+                "name": "动漫视频",
                 "url": "https://jintao35.github.io/pages/dongman"
             },
             {
-                "name": "dianying",
+                "name": "电影列表",
                 "url": "https://jintao35.github.io/pages/dianying"
+            },
+            {
+                "name": "影视剧集",
+                "url": "https://jintao35.github.io/pages/dianshiju"
+            },
+            {
+                "name": "小说追更",
+                "url": "https://jintao35.github.io/pages/xiaoshuo"
             }
         ]
     }
