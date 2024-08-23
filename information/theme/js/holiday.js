@@ -5,10 +5,6 @@ function loadData() {
             const weekdays = ['星期日', '星期一', '星期二', '星期三', '星期四', '星期五', '星期六'];
             const dataList = data['data'];
             const container = document.getElementById('recordContainer');
-            const navMenu = document.getElementById('navMenu');
-            const menuH2 = document.createElement('h2');
-            menuH2.innerHTML = '年月时间';
-            navMenu.appendChild(menuH2);
             dataList.forEach(itemData => {
                 const yearMonth = itemData['year-month'];
                 const restDay = itemData['rest-day'];
