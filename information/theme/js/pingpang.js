@@ -38,6 +38,7 @@ function loadData() {
 
                     const article = document.createElement('article');
                     if(num==0){
+                        debugger;
                         navIndex++;
                         if(navIndex%2==0){
                             h4 = document.createElement('p');
