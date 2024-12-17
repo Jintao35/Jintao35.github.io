@@ -43,7 +43,7 @@ function loadData() {
                             h4 = document.createElement('p');
                         }
                         const ah4 = document.createElement('a');
-                        ah4.innerHTML = ' '+date+'  ';
+                        ah4.innerHTML = '&nbsp;'+date+'&nbsp;';
                         ah4.href = '#'+date+' '+time;
                         h4.appendChild(ah4);
                         navIndex++;
