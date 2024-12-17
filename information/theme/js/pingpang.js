@@ -36,9 +36,9 @@ function loadData() {
 
                     const article = document.createElement('article');
                     if(num==0){
-                        const h4 = document.createElement('h4');
+                        const h4 = document.createElement('p');
                         const ah4 = document.createElement('a');
-                        ah4.innerHTML = date+' '+time;
+                        ah4.innerHTML = date+' ';
                         ah4.href = '#'+date+' '+time;
                         h4.appendChild(ah4);
                         navMenu.appendChild(h4)
