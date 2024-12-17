@@ -39,14 +39,14 @@ function loadData() {
                     const article = document.createElement('article');
                     if(num==0){
                         debugger;
-                        navIndex++;
                         if(navIndex%2==0){
                             h4 = document.createElement('p');
                         }
                         const ah4 = document.createElement('a');
-                        ah4.innerHTML = date+' ';
+                        ah4.innerHTML = ' '+date+'  ';
                         ah4.href = '#'+date+' '+time;
                         h4.appendChild(ah4);
+                        navIndex++;
                         if(navIndex%2==0||dataLength==navIndex){
                             navMenu.appendChild(h4)
                         }
