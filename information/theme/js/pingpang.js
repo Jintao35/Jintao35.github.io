@@ -30,18 +30,25 @@ function loadData() {
                 if(lastTableRecordNum==0){
                     tableNum-=1;
                 }
+                let navIndex = 0;
+                const h4 = document.createElement('p');
                 for(let num=0; num<tableNum; num++){
                     thisTableLongWin = 0;
                     thisTableTaoWin = 0;
 
                     const article = document.createElement('article');
                     if(num==0){
-                        const h4 = document.createElement('p');
+                        navIndex++;
+                        if(navIndex%2==0){
+                            h4 = document.createElement('p');
+                        }
                         const ah4 = document.createElement('a');
                         ah4.innerHTML = date+' ';
                         ah4.href = '#'+date+' '+time;
                         h4.appendChild(ah4);
-                        navMenu.appendChild(h4)
+                        if(navIndex%2==0){
+                            navMenu.appendChild(h4)
+                        }
                         const h3 = document.createElement('h3');
                         h3.innerHTML = date+' '+time+' ';
                         h3.id = date+' '+time;
