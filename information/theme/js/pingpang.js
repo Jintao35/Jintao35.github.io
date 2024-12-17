@@ -13,6 +13,8 @@ function loadData() {
             let menuAllNum = 0;
             let menuLongWin = 0;
             let menuTaoWin = 0;
+            let navIndex = 0;
+            const h4 = document.createElement('p');
             dataList.forEach(itemData => {
                 const time = itemData['time'];
                 const date = itemData['date'];
@@ -30,8 +32,6 @@ function loadData() {
                 if(lastTableRecordNum==0){
                     tableNum-=1;
                 }
-                let navIndex = 0;
-                const h4 = document.createElement('p');
                 for(let num=0; num<tableNum; num++){
                     thisTableLongWin = 0;
                     thisTableTaoWin = 0;
