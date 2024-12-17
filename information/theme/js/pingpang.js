@@ -46,7 +46,7 @@ function loadData() {
                         ah4.innerHTML = date+' ';
                         ah4.href = '#'+date+' '+time;
                         h4.appendChild(ah4);
-                        if(navIndex%2==0){
+                        if(navIndex%2==0||dataLength==navIndex){
                             navMenu.appendChild(h4)
                         }
                         const h3 = document.createElement('h3');
