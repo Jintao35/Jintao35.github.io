@@ -14,7 +14,7 @@ function loadData() {
             let menuLongWin = 0;
             let menuTaoWin = 0;
             let navIndex = 0;
-            const h4 = document.createElement('p');
+            let h4 = document.createElement('p');
             dataList.forEach(itemData => {
                 const time = itemData['time'];
                 const date = itemData['date'];
