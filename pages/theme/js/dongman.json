@@ -1,6 +1,6 @@
 {
     "data": {
-        "list": [
+        "list2024": [
             {"name":"斗罗大陆Ⅱ绝世唐门","url":"https://v.qq.com/x/cover/mzc00200xf3rir6/i0046sewh4r.html?ptag=11974"},
             {"name":"吞噬星空","url":"https://v.qq.com/x/cover/324olz7ilvo2j5f/i00350r6rf4.html"},
             {"name":"神印王座","url":"https://v.qq.com/x/cover/mzc002007j7p5hn/k0042sids9q.html"},
@@ -40,6 +40,19 @@
             {"name":"魔卡少女樱","url":"https://v.qq.com/x/cover/wplx79f0v0dlop3/j0026klh74j.html?ptag=10524"},
             {"name":"白圣女与黑牧师","url":"https://www.bilibili.com/bangumi/play/ep764683?bsource=baidu_aladdin"},
             {"name":"完美世界","url":"https://v.qq.com/x/cover/mcv8hkc8zk8lnov/x0036x5qqsr.html"}
+        ],
+        "list2025": [
+            {"name":"胶囊计划英雄","url":"https://www.bilibili.com/bangumi/play/ep1200711?from_spmid=666.25.episode.0"},
+            {"name":"因为不想吃亏","url":"https://haokan.baidu.com/v?pd=wisenatural&vid=14500582568553286725"},
+            {"name":"龙珠大魔","url":"https://www.iqiyi.com/v_vhd9uxnye8.html?vfm=2008_aldbd&fv=p_02_01"},
+            {"name":"流氓读书会","url":"https://haokan.baidu.com/v?pd=wisenatural&vid=17748552806311762821"},
+            {"name":"黑暗荣耀","url":"https://haokan.baidu.com/v?pd=wisenatural&vid=3456547409994834464"},
+            {"name":"泪之女王","url":"https://www.bilibili.com/video/BV1TA4m1A7rh/"},
+            {"name":"滤镜","url":"https://v.qq.com/x/cover/mzc00200i5j3efb/x4100raa15f.html?ptag=11972"},
+            {"name":"难哄","url":"https://v.youku.com/v_show/id_XNjQ1NDI4ODY2MA==.html?source=baidu&refer=sousuotoufang_market.qrwang_00002944_000000_QJFFvi_19031900&s=aefa5bc564b44f50ae4d"},
+            {"name":"坂本日常","url":"https://www.bilibili.com/bangumi/play/ep1226212?bsource=baidu_aladdin"},
+            {"name":"全球高武","url":"https://v.qq.com/x/cover/mzc00200ul6hl9w/b4100sajrwi.html?ptag=11974"},
+            {"name":"白月梵星","url":"https://www.iqiyi.com/v_k6ga53ya6g.html?vfm=2008_aldbd&fv=p_02_01"}
         ]
     }
 }
