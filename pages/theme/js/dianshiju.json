@@ -1,6 +1,6 @@
 {
     "data": {
-        "list": [
+        "list2024": [
             {"name":"天才基本法","url":"https://www.iqiyi.com/v_rm5ursjlis.html?vfm=2008_aldbd&fv=p_02_01"},
             {"name":"狂飙","url":"https://www.iqiyi.com/v_xkt6z3z798.html?vfm=2008_aldbd&fv=p_02_01"},
             {"name":"一兆$游戏","url":"https://baike.baidu.com/item/%E4%B8%80%E5%85%86%24%E6%B8%B8%E6%88%8F/63050151?fromtitle=%E4%B8%80%E5%85%86%E6%B8%B8%E6%88%8F&fromid=62975389&fr=aladdin"},
@@ -38,6 +38,45 @@
             {"name":"新星便利店","url":"https://baike.baidu.com/item/%E4%BE%BF%E5%88%A9%E5%BA%97%E6%96%B0%E6%98%9F/24373531?fr=ge_ala"},
             {"name":"田耕纪","url":"https://www.iqiyi.com/v_1pb54e3ixts.html?vfm=2008_aldbd&fv=p_02_01"},
             {"name":"信号","url":"https://v.qq.com/x/cover/vkf8hhfj7uunkg6/q0020gxjurq.html?ptag=11972"}
+        ],
+        "list2025": [
+            {"name":"骄阳似我","url":"https://v.qq.com/x/cover/mzc00200xntoaip/a4101fjl3l1.html?ptag=11972"},
+            {"name":"樱桃琥珀","url":"https://v.youku.com/v_show/id_XNjQ4ODc4MDUwOA==.html?source=baidu&refer=sousuotoufang_market.qrwang_00002944_000000_QJFFvi_19031900"},
+            {"name":"难哄","url":"https://v.youku.com/v_show/id_XNjQ1NDI4ODY2MA==.html?source=baidu&refer=sousuotoufang_market.qrwang_00002944_000000_QJFFvi_19031900&s=aefa5bc564b44f50ae4d"},
+            {"name":"黑暗荣耀","url":"https://haokan.baidu.com/v?pd=wisenatural&vid=3456547409994834464"},
+            {"name":"未知的首尔","url":"https://www.bilibili.com/video/BV1ohKPzuEhH/?vd_source=4ae5c1bedd33ffcbad3e7adde9866f60"},
+            {"name":"白月梵星","url":"https://www.iqiyi.com/v_k6ga53ya6g.html?vfm=2008_aldbd&fv=p_02_01"},
+            {"name":"现在拨打的电话","url":"https://haokan.baidu.com/v?pd=wisenatural&vid=5482764161335570063"},
+            {"name":"无尽的尽头","url":"https://v.qq.com/x/cover/mzc00200wcmszla/n410108vchv.html?ptag=11972"},
+            {"name":"藏海传","url":"https://v.youku.com/v_show/id_XNjQ3Nzc2ODgwOA==.html?source=baidu&refer=sousuotoufang_market.qrwang_00002944_000000_QJFFvi_19031900&s=06efbfbd08efbfbdefbf"},
+            {"name":"法官大人","url":"https://www.bilibili.com/video/BV1eLKNzuEod/"},
+            {"name":"陷入我们的热恋","url":"https://v.qq.com/x/cover/mzc00200vvr86iv/r4101ry1tm1.html?ptag=11972"},
+            {"name":"子夜归","url":"https://v.qq.com/x/cover/mzc002009y0nzq8/z4101m43ng6.html?ptag=11972"},
+            {"name":"不眠日","url":"https://www.iqiyi.com/v_16a8stugsec.html?vfm=2008_aldbd&fv=p_02_01"},
+            {"name":"流氓读书会","url":"https://haokan.baidu.com/v?pd=wisenatural&vid=17748552806311762821"},
+            {"name":"雁回时","url":"https://v.qq.com/x/cover/mzc002007yteuff/t4100v582h3.html?ptag=11972"},
+            {"name":"棋士","url":"https://v.qq.com/x/cover/mzc00200htmlstu/c4100mruffa.html?ptag=11972"},
+            {"name":"我在顶峰等你","url":"https://v.youku.com/v_show/id_XNjQ4MzI5OTMxNg==.html?source=baidu&refer=sousuotoufang_market.qrwang_00002944_000000_QJFFvi_19031900"},
+            {"name":"深情眼","url":"https://www.miguvideo.com/p/detail/956485906?channelId=CAAAB000902014800000000&pwId=e7ab0569dd594942aeb835d93ec3956d"},
+            {"name":"执法者们","url":"https://v.youku.com/v_show/id_XNjQ2NDc3NjA2OA==.html?source=baidu&refer=sousuotoufang_market.qrwang_00002944_000000_QJFFvi_19031900"},
+            {"name":"ONE高中英雄们","url":"https://weibo.com/tv/show/1034:5177556983283728"},
+            {"name":"滤镜","url":"https://v.qq.com/x/cover/mzc00200i5j3efb/x4100raa15f.html?ptag=11972"},
+            {"name":"文森佐","url":"https://haokan.baidu.com/v?pd=wisenatural&vid=4723391396680707635"},
+            {"name":"长安的荔枝","url":"https://v.qq.com/x/cover/mzc00200iyue5he/s4101yeng8s.html?ptag=11972"},
+            {"name":"麻雀乐团","url":"https://www.bilibili.com/video/BV1pwp9zcEEk/?spm_id_from=333.337.search-card.all.click&vd_source=4ae5c1bedd33ffcbad3e7adde9866f60"},
+            {"name":"泪之女王","url":"https://www.bilibili.com/video/BV1TA4m1A7rh/"},
+            {"name":"爱你","url":"https://www.iqiyi.com/v_obm13e6c30.html?vfm=2008_aldbd&fv=p_02_01"},
+            {"name":"夜魔侠：重生","url":"https://www.bilibili.com/video/BV1ZWLqzxE3J/"},
+            {"name":"紫川之光明王","url":"https://www.iqiyi.com/v_1dcaj54x1xg.html?vfm=2008_aldbd&fv=p_02_01"},
+            {"name":"因为不想吃亏","url":"https://haokan.baidu.com/v?pd=wisenatural&vid=14500582568553286725"},
+            {"name":"诶差点真分了","url":"https://www.baidu.com/link?url=JDSOd1hHHdBleDrDqi_AkA1ZIRYQNPJZwsZWnRcPxMFTO74aQS7A14ZrwpSmyQPlWxw-V9czW_Ak0547ZKEOX8FD7ocqzU-mocVxOEmZ2hG&wd=&eqid=b7d0117c00021cc7000000036960a32a"},
+            {"name":"千禧风云","url":"https://v.qq.com/x/cover/mzc0020007m84ey/f4101en8dve.html?ptag=11972"},
+            {"name":"S-Line","url":"https://www.bilibili.com/video/BV1fYeLzyET2/?vd_source=4ae5c1bedd33ffcbad3e7adde9866f60"},
+            {"name":"第一夫人","url":"https://www.bilibili.com/video/BV1sJyfBSEVB/"},
+            {"name":"双轨","url":"https://www.iqiyi.com/v_2abc7gnrdl0.html?vfm=2008_aldbd&fv=p_02_01"},
+            {"name":"值得爱","url":"https://v.qq.com/x/cover/mzc00200o4ikbtq/r4100irklsg.html?ptag=11972"},
+            {"name":"春画恋爱谈","url":"https://www.bilibili.com/video/BV1W49yYrEN3/"},
+            {"name":"钢铁之心","url":"https://www.bilibili.com/video/BV1GT3XzUEQ1/?vd_source=4ae5c1bedd33ffcbad3e7adde9866f60"}
         ]
     }
 }
